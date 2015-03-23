@@ -1,6 +1,6 @@
 # ibFinder
 
-## English
+### English
 
 This is a tool to find out, explore and configure Bluetooth Smart beacons managed under the server-side Content Management System / Customer Self-Management (CMS/CSM) produced by iBecom LLC.
 
@@ -16,9 +16,9 @@ You can download ibFinder free at AppStore. To test ibFinder you can get binary 
 
 To get documentation look at Wiki.
 
-## Русский
+### Русский
 
-Это инструмент для обнаружения, определения параметров и конфигрурирования Bluetooth Smart маяков, управляемых через систему управления контентом / систему самообслуживания (CMS/CSM), разработанную компанией ООО Ибиком.
+Это инструмент для обнаружения, определения параметров и конфигрурирования Bluetooth Smart маяков, поддерживаемых через систему управления контентом / систему самообслуживания (CMS/CSM), разработанную компанией ООО Ибиком.
 
 ibFinder полностью поддерживает маяки производства Ибиком, позволяя изменять параметры, обновлять встроенное программное обеспечение маяка, отслеживать состояние и передавать его на сервер системы, а также визуализировать график изменения мощности принимаемого сигнала (RSSI).
 
