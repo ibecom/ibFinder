@@ -12,7 +12,7 @@ ibFinder supports Estomote beacons to monitor and RSSI raph visualization.
 
 ibFinder works on iOS platform only. On iOS 7 it is possible to visualize RSSI of each Bluetooth broadcast channel (#37, #38, #39) separatly. Keep your iOS 7 tech tool devices out of upgrade to iOS 8 - new iOS system doesn't support this feature.
 
-You can download ibFinder free at AppStore. To test ibFinder you can get binary ipa image here and install it directly to your iPhone/iPad (Enterprise deployment for testing purposes only, updates may be unsupported).
+You can download ibFinder free at AppStore.
 
 To get documentation look at Wiki.
 
@@ -28,6 +28,6 @@ ibFinder поддерживает маяки производства Estimote, 
 
 ibFinder работает только на платформе iOS. На версии 7 возможно отображение RSSI по каждому из широковещательных Bluetooth каналов (#37, #38, #39) по отдельности. Сохраняйте ваши iOS 7 инженерные устройства, не позволяя им обновиться до 8 версии iOS, потому что в новой версии операционной системы эта возможность уже отсутствует.
 
-Вы можете скачать ibFinder бесплатно в AppStore. Для того, чтобы протестировать ibFinder, вы можете взять в этом репозитории бинарный ipa образ и установить его напрямую на свой iPhone/iPad (он предназначен для корпоративной установки только в целях тестирования, обновления могут не поддерживаться).
+Вы можете скачать ibFinder бесплатно в AppStore.
 
 Для получения полной документации перейдите в раздел Wiki.
