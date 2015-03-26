@@ -14,6 +14,16 @@ ibFinder works on iOS platform only. On iOS 7 it is possible to visualize RSSI o
 
 You can download ibFinder free at AppStore.
 
+To use ibFinder you have to get iBecom account. Try the following parameters to unlock auth screen:
+
+1. System Settings - ibFinder - Auth - Address: contentsrv.ibecom.ru
+1. System Settings - ibFinder - Auth - Server Root: ibfinder/mobile
+1. System Settings - ibFinder - Auth - Port: 80
+1. Authorization Required screen - Login: demo
+1. Authorization Required screen - Password: demo
+
+After pass through auth screen you will get "No devices found" message in device list. To manage your devices feel free to write message to info@ibecom.ru, send your beacons identificators (iBecom and Kontakt devices only) and get your personalized account.
+
 To get documentation look at Wiki.
 
 ### Русский
