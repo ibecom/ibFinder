@@ -4,9 +4,9 @@
 
 This is a tool to find out, explore and configure Bluetooth Smart beacons managed under the server-side Content Management System / Customer Self-Management (CMS/CSM) produced by iBecom LLC.
 
-ibFinder fully supports iBecom beacons to configure, firmware update, monitor with post data to server and RSSI graph visualization.
+ibFinder fully supports iBecom beacons to configure, firmware update, monitor and post data to server and RSSI graph visualization.
 
-ibFinder supports Kontakt beacons to configure, monitor with post data to server and RSSI graph visualization. It works better, more stable and user-friendly than official Kontakt application. You need to know Kontakt DevCode to use ibFinder.
+ibFinder supports Kontakt beacons to configure, monitor and post data to server and RSSI graph visualization. It works better, more stable and user-friendly than official Kontakt application. You need to know Kontakt DevCode to use ibFinder.
 
 ibFinder supports Estomote beacons to monitor and RSSI raph visualization.
 
@@ -40,7 +40,7 @@ ibFinder работает только на платформе iOS. На вер�
 
 Вы можете скачать ibFinder бесплатно в AppStore.
 
-Для того, чтобы использовать ibFinder, вам необходимо иметь аккаунт в системе iBecom. Вы можете использовать следуюущие параметры для того, чтобы авторизаоваться на стартовом эркане приложения:
+Для того, чтобы использовать ibFinder, вам необходимо иметь аккаунт в системе iBecom. Вы можете использовать следующие параметры для того, чтобы авторизоваться на стартовом экране приложения:
 
 1. System Settings - ibFinder - Auth - Address: contentsrv.ibecom.ru
 1. System Settings - ibFinder - Auth - Server Root: ibfinder/mobile
@@ -48,6 +48,6 @@ ibFinder работает только на платформе iOS. На вер�
 1. Authorization Required screen - Login: demo
 1. Authorization Required screen - Password: demo
 
-После авторизации вы увидите сообщение "No devices found" в списке устройств. Для работы со своими маяками напишите письмо на адерс info@ibecom.ru, приложив список индентификаторов маяков(поддерживаются только маяки производства iBecom и Kontakt) и получите ваш персонализированнный аккаунт.
+После авторизации вы увидите сообщение "No devices found" в списке устройств. Для работы со своими маяками напишите письмо на адрес info@ibecom.ru, приложив список идентификаторов маяков (поддерживаются только маяки производства iBecom и Kontakt) и получите ваш персонализированный аккаунт.
 
 Для получения полной документации перейдите в раздел Wiki.
