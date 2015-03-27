@@ -10,7 +10,7 @@ ibFinder supports Kontakt beacons to configure, monitor and post data to server 
 
 ibFinder supports Estimote beacons to monitor and RSSI graph visualization.
 
-ibFinder works on iOS platform only. On iOS 7 it is possible to visualize RSSI of each Bluetooth broadcast channel (#37, #38, #39) separatly. Keep your iOS 7 tech tool devices out of upgrade to iOS 8 - new iOS system doesn't support this feature.
+ibFinder works on iOS platform only. On iOS 7 it is possible to visualize RSSI of each Bluetooth broadcast channel (#37, #38, #39) separately. Keep your iOS 7 tech tool devices out of upgrade to iOS 8 - new iOS system doesn't support this feature.
 
 You can download ibFinder free at AppStore.
 
