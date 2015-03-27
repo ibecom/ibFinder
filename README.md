@@ -8,7 +8,7 @@ ibFinder fully supports iBecom beacons to configure, firmware update, monitor an
 
 ibFinder supports Kontakt beacons to configure, monitor and post data to server and RSSI graph visualization. It works better, more stable and user-friendly than official Kontakt application. You need to know Kontakt DevCode to use ibFinder.
 
-ibFinder supports Estomote beacons to monitor and RSSI raph visualization.
+ibFinder supports Estimote beacons to monitor and RSSI graph visualization.
 
 ibFinder works on iOS platform only. On iOS 7 it is possible to visualize RSSI of each Bluetooth broadcast channel (#37, #38, #39) separatly. Keep your iOS 7 tech tool devices out of upgrade to iOS 8 - new iOS system doesn't support this feature.
 
