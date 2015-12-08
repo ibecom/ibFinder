@@ -24,7 +24,7 @@ To use ibFinder you have to get iBecom account. Try the following parameters to 
 1. Authorization Required screen - Login: demo
 1. Authorization Required screen - Password: demo
 
-After pass through auth screen you will get "No devices found" message in device list. To manage your devices feel free to write message to info@ibecom.ru, send your beacons identificators (iBecom and Kontakt devices only) and get your personalized account.
+After pass through auth screen you will get "No devices found" message in device list. To manage your devices feel free to write message to support@ibecom.ru, send your beacons identificators (iBecom and Kontakt devices only) and get your personalized account.
 
 To get documentation look at Wiki.
 
@@ -52,6 +52,6 @@ https://ibecom.ru/ibfinder
 1. Authorization Required screen - Login: demo
 1. Authorization Required screen - Password: demo
 
-После авторизации вы увидите сообщение "No devices found" в списке устройств. Для работы со своими маяками напишите письмо на адрес info@ibecom.ru, приложив список идентификаторов маяков (поддерживаются только маяки производства iBecom и Kontakt) и получите ваш персонализированный аккаунт.
+После авторизации вы увидите сообщение "No devices found" в списке устройств. Для работы со своими маяками напишите письмо на адрес support@ibecom.ru, приложив список идентификаторов маяков (поддерживаются только маяки производства iBecom и Kontakt) и получите ваш персонализированный аккаунт.
 
 Для получения полной документации перейдите в раздел Wiki.
